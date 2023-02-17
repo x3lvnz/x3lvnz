@@ -1,8 +1,8 @@
-# hello , i'am zheva
+# hello , i'am xelvin
 
-# Hubungi Saya Di Telegram: [@zhevaexe](https://t.me/zhevaexe)
+# Hubungi Saya Di Telegram: [@x3lvnz](https://t.me/sod4xdrug)
 
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/zhevaexe)
+[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/sod4xdrug)
 
 ### ᴛᴏᴏʟs:
 <p>
@@ -17,34 +17,29 @@
 
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
 <p>
-    <p align="center"><a href="https://github.com/zhevaexe"><img src="https://github-readme-stats.vercel.app/api?username=zhevaexe&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zhevaexe"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhevaexe&theme=radical&layout=compact"></a></p>
+    <p align="center"><a href="https://github.com/x3lvnz"><img src="https://github-readme-stats.vercel.app/api?username=x3lvnz&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/x3lvnz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3lvnz&theme=radical&layout=compact"></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 <p>
-    <a href="https://t.me/zhevasupport" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://t.me/zhevaexe" target="radical"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://instagram.com/_pvinz6" target="blank"><img src="https://img.icons8.com/instagram" /></a>
+    <a href="https://t.me/x3lvnz" target="radical"><img src="https://img.icons8.com/telegram" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
     <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅs</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zhevaexe&margin-w=5&margin-h=5)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=x3lvnz&margin-w=5&margin-h=5)
 
 </details>
 
 <details>
     <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/kyuraxp?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/x3lvnz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=kyuraxp&repo=kyura-userbot&theme=dark)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
